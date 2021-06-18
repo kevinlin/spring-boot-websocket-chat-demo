@@ -68,7 +68,7 @@
         <dependency>
             <groupId>org.webjars.npm</groupId>
             <artifactId>url-parse</artifactId>
-            <version>1.2.0</version>
+            <version>1.5.1</version>
         </dependency>
     </dependencies>
 
